@@ -1,0 +1,40 @@
+﻿body {background-image:url(../Pictures/123.jpg);
+      color:white;
+}
+
+.field-validation-error { color:red;
+}
+.RequiredFieldValidator {
+    color:red;
+}
+
+.RangeValidator1 {
+    color:red;
+}
+
+
+h1 { margin-left:637px;margin-top:200px;
+}
+
+
+#button1  { margin-left:700px;margin-top:15px;
+
+}
+
+#button2 { margin-left:700px;margin-top:15px;
+}
+
+#textbox { margin-left:700px;
+}
+
+#secret {margin-left:700px;
+}
+
+#summary {margin-left:700px;
+}
+
+#place1 {margin-left:620px; font-size:x-large;font-weight:900; text-shadow:2px 2px black;
+}
+
+#place2{ margin-left:620px;font-size:x-large;font-weight:900; text-shadow:2px 2px black;
+}
